@@ -1,0 +1,11 @@
+git init (inicia repositório)
+git config user.name (define nome do usuário)
+git config user.email (define email)
+git add . (adiciona modificações)
+git comit (insere um comentario a cada alteração feita)
+git log (mostra histórico de comites (comentários))
+git status (verifica status do branch)
+--global (configuração global da maquina do usuário)
+git branch (mudança para master/main)
+
+estrutura do git: git (palavra reservada) commit (comando) -m (opções) "primeiro comit" ("argumento)
